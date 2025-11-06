@@ -1,0 +1,17 @@
+
+    .boton_inline{
+        background-color: rgb(92, 148, 104);
+        font-family: 'Times New Roman', Times, serif;
+        border-radius:5px;
+    }
+    .boton_interna{
+        background-color: rgb(122, 165, 174);
+        font-family: 'Times New Roman', Times, serif;
+        border-radius:5px;
+    }
+    body{
+        font-family: 'Times New Roman', Times, serif;
+        background-color: rgb(66, 31, 31);
+        color:white;
+        font-size: small;
+    }
